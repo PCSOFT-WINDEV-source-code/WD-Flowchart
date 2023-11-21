@@ -1,0 +1,124 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : IW_WINDEVViewOrgaElement
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : IW_WINDEVViewOrgaElement
+ identifier : 0x2857f66a06deabb1
+ internal_properties : CAAAAAgAAAD7ZfMYple4rY0qEeT8mi+AxtNBxcuDdZEHxyBW4B1BeqgjTTnL+wfc7tqq4r4XdbiNCmoL3pJfgPMqlo+k8nNCPyNndUOrT/7o7QFiEJ1LhbW0/Qb6fIPKlmagSq50BqRkbN43usOwJrig0YuvOfOHhQtGHj0ildk/yxyvRMFPrwagR8Pdml8gnwP7JWkl8HIx+OKymj2zGVjbU3/3jxjQHw7VL3jZTW2LSJk1VFaY8NE/ZKSDUuPpMoZ1/YlzyLORUx1MAthYcFLEeLSpCDwWzjzLb1953hO5XUKfDgQRKJYN9WyeqGBVQSEiLzte1XHajW2AL3mfvFowOI6siXKuvsALTH61EcN86vG+MecrZN4pGsqmW9IDRCm0E7/GRgBUYUMxDzZhwMClDTUWvm+mHI8VKu3so4DT+Lu3qbUQMZuuv+WxwH/hEsYR4cJ96N/BvS4J44L6wy4mJev4YdWWilDrOzHEZiNQc7bGdkIbrnTHbgGWmQnUif1x7Qs/VulpfNquDaaGCNZtZu13ekr7vVCP9lrFeoPEs2I6cg6apQnLNbyrMo54Zd3e12VRTOFIDmZhfxx2Q5zYDd4Gvfn5veVoEKhBVWj3+GdkpkQEIQ4FS0XlfmdNiwSJn1BYOs5omS8U0+BQkvzH6MLvMo2FiPemfWY3GokomtS1LveUVD3Lgpk1ItWen/bFMd9UMu6JEO3cTVVdGpQ7Agqw3Gxva/z9WNV3+nmdXQhQ51PdKFk54qx5VWPyx8tKZMA=
+ properties :
+  width : 150
+  height : 75
+ controls :
+  -
+    name : IW_WINDEVViewOrgaElement
+    identifier : 0x2857f66a06dfabb1
+    internal_properties : CAAAAAgAAAAJRxdQSPOAwWyIfnklyc+iOZvicg8AkfARNheNFSLhpA6uKbOogrULfKKxkNgDLdOIBoxmaY1u5SRrBoRHfdnYfHnJgdjTpKp398YREdIl/ODceeL+XWQxwkCSD7dk1YpOGes2zROWGbg6I3uRgTS5O7cebb7ZGv6IyaIR1wz/jCIhqfS86dFg+VTadplMLM6RR4wTe7GaRqpSS3dCXgApcL0AhPCtc4jLxm64Jj4fwrft2ZZ9MzCwRr9shCCZ+o964dwNfBNBiWvHI1W1fTkpAY+dzGe+O/NqIs2LSfF9jmF+H+32dOzKc3QPcf8kT4NYFp+ogqDuJ1Ii82wroeXp4iR8swXUrW+n/n3+MXPnCIgV/5LBnSni3QpPwPUEgBGLKZC2UT+tSQEmyfbyYMCcPetR+MYgcT3eL6Oh+hak+pVVtB0B1pX3t/LF0jNrbQtWgmYdd8j7m2lMmK/8GiG9b/3AldS2wTVhnS95uf4SpDL2DOs=
+    properties :
+     width : 150
+     height : 75
+    controls :
+     -
+       name : STC_TitleOrgElement
+       identifier : 0x2857f66a06e0abb1
+       internal_properties : CAAAAAgAAACySukWRveMBoiKh4FOg7TGGAjqgGisAP0LKO5EAWtzD9ngIHi7UvIebxTD8ZiB2egZSKefOnRGe5541+Rxf1mbpka6jnDVJl6WmznmCy88gGlNf0cEtGf00Z1otMyrvYv4rtSM4ZCR6JdXnTtrdSORc1ASk0ye1aJoCPcC+R1bYkBeYnWEBJbJl7PBsbptybjvJpjF1MfNilZYu0bm4yw14Q12u2GV7qg8H4Kj3BJ/9ihiyt28r8djzhyrSrP64SukognikWRxXb7x7181r8Wlz8uUEzl89qMBavxkaC8VEmSRr54q6WjHSHbo1k8b2P00WsWoOqBC0wyOH/YuEkfbFq+Rpq3x/MQ0lFNGkZWnmO2ErIosjgk=
+       properties :
+        x : 73
+        y : 3
+        width : 77
+        height : 16
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : STC_SubTitleOrgElement
+       identifier : 0x2857f66a06e1abb1
+       internal_properties : CAAAAAgAAABh5UA3r/AHi40NHTjO+asEIRrARcAEBKHepqBoDUsCycmnu+xSgHbPfPFHnln6XI01VPgxNHWh1dcHPvvWZlDCrb25z7GabT6vLhzkgKNaXVrm1mm6VsquymZpOAvPhgobnpcxTX8SV4QyEs5jMTPg82rgP/tVTQ6/hr+oGtwedZ0eSwtgNeXB2xPnRm+eOp7M+dJ3KBqpk0Qbz1vEY6cbUxvuu0B11ztIngC3YurP3KJqZ45r27+h/DHwXuv0qSZFEtC+TZb/tXm3lODnVaUutjJzNNpTj3ooQYNdoXZ8FEbxlIbiVlKn9FjyHSiANV4xqzWsW8YoU8sT/qt6+1QvoTs2DxnC+6r6IfXEVlBi1ai/V7fZ3Vo=
+       properties :
+        x : 73
+        y : 24
+        width : 75
+        height : 40
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : IMG_ImageOrgElement
+       identifier : 0x2857f66a06e2abb1
+       internal_properties : CAAAAAgAAACBUA0oUjZFiyDb9oOWKSQdC0IaMrPzoMmg58pVPcHQNmWXM69X3ZpQu1d8Z9uTb2P7BOOTyfDV2pEfpKmvLWW/QkEfkOM3pzUpHpSM2vbvf8k9H+649umaSP+sqsRiPNM3omrR4sJtRJ9DMC7ghhju/kXatI17s0JA2evQP4IHzwn3D8ubvqbAiySNmfb/H9DSDYj5me8vy8OzMrPX5Oe6umx0K95WGodRo8RxjyaP5c0VVsORaLRyH401Qvzcf6nMl82RiMyL3bWkoXz3/l3aKmsVpca2nKdLkiQzMyy6mX2bcDXj0Du2AEUTe4WZtwf6HN9Q62qFirO2kVBJ3K2aIFI1qLsk67NSJqU1tJz39r6rx+DNBYmqGRmueRGduOh5IybwMagFXL2dniEC1jNL4C3UmYTM9RzZB1aM0o7H93sg6JX4IKWKU+vTAeFwj2EvmZGurAetKQEkfCPff4A4b+ynSulZNnOZcoBKZll59RdBmAw2/O+u87XY+/JRbAhvWbM243ujJc2EVRBaqn6Ogw==
+       properties :
+        x : 4
+        y : 5
+        width : 64
+        height : 64
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         // Procedure called for each drawing of an element found in the organization chart
+         // <gOrgElement>: element to display 
+         PROCEDURE IW_WINDEVViewOrgaElement( gOrgElement is an OrgElement )
+         
+         // Initialize the captions from the object to display
+         STC_TitleOrgElement     = gOrgElement..Title
+         STC_SubTitleOrgElement = gOrgElement..Content
+         
+         //if an image is found
+         
+         iImage is an Image = gOrgElement..Image
+         IF iImage..Valid THEN
+         	// make the image visible and assign it to the image control
+         	IMG_ImageOrgElement..Visible = True
+         	IMG_ImageOrgElement 	 = gOrgElement..Image
+         ELSE
+         	IMG_ImageOrgElement..Visible = False
+         	nXOffshift is int = IMG_ImageOrgElement..Width + 6 // margin	
+         	// retrieve the space for the caption
+         	STC_TitleOrgElement..X			  = STC_TitleOrgElement..XInitial- nXOffshift
+         	STC_TitleOrgElement..Width 	  = STC_TitleOrgElement..Width+ nXOffshift
+         	STC_SubTitleOrgElement..X		  = STC_SubTitleOrgElement..XInitial- nXOffshift
+         	STC_SubTitleOrgElement..Width = STC_SubTitleOrgElement..Width + nXOffshift
+         END
+         
+         
+      -
+        type : 15
+      -
+        type : 16
+ menu :
+  name : _Menu
+  identifier : 0x2e12cb1e0ec12067
+  internal_properties : CAAAAAgAAAAjoO+VYAXYh2SYpTvD7AgXCHEHRjuTd5K/qNR3zUpM1aIlQYejrbtK76/LWLozAhgdmcRuoxDXe7vi3lf8PoZYYzNtPYlgCK9AarNrSCSSPpGDp+KLIikSwO2L+lCfwFobS8WKQZu2noN9WV5ipxuLKjTaOvfojbcmu1i6FPrF8FEPa+oQBHdRyMYNLYyLF/nTGn2y7NBixG5dC7y2wsO4aXA1CKpzZUca8sBJUrSr9FqhTJMK37pOOZqMTeCIo+trbOMI1osTdzjD26auXrzETrP8OxsAt+HgvahLwDb4kRpR6lQOjBIj
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenêtreInterne1
+resources :
+ string_res :
+  identifier : 0x1e12cb1e004c2067
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

@@ -1,0 +1,143 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Flowchart
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Windows 32-bit executable
+    internal_properties : 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
+    configuration_id : 14868706505095870282
+    type : 1
+    generation_name : WD Flowchart.exe
+    version :
+     major_version : 22
+     minor_version : 37
+     internal_generation_version : 1
+     autoincrement_version : false
+    icon_filename : .\01970-32-5.ico
+    language : 2
+    telemetry :
+     status : disabled
+ elements :
+  identifier : 0x4ec2509900021a35
+  elements :
+   -
+     name : QRY_MainManager
+     identifier : 0x4ee5e116019fc7c1
+     internal_properties : CAAAAAgAAACRbcnd6pefUB5VnA06Kc5idTYAEC8KyJtOz0zqSV+3Gf/tv1m4QNxfO+LcJOzknAz0fA==
+     physical_name : .\QRY_MainManager.WDR
+     type : 5
+   -
+     name : WIN_EXAMPLE
+     identifier : 0x4ec2548e00098d61
+     internal_properties : CAAAAAgAAAC8mpSAP2RMX2tSnQI/8JGZIHdfl65+RqaiFqD8QN62Sro0cgYDPd9gOO/p11+RaV+pqQ==
+     physical_name : .\WIN_EXAMPLE.wdw
+     type : 2
+   -
+     name : WIN_FORM
+     identifier : 0x4ec27de3000e00a0
+     internal_properties : CAAAAAgAAAAacMLG5aIKFd3oX0DN5/eLEkNJISoqC9hKrDJDjWErPY8HXyntC6GifqUfmRnXoxX/Bw==
+     physical_name : .\WIN_FORM.wdw
+     type : 2
+   -
+     name : TEST_EXAMPLE
+     identifier : 0x4f30e5220011c99c
+     internal_properties : CAAAAAgAAACc+vQgn8Rsf8vyPSIfUzVNnImbs5nmwdxOrwncwn0fmWern2mjXf8AmI8J978xyT+JiQ==
+     physical_name : .\TEST_EXAMPLE.wxt
+     type : 17
+   -
+     name : IW_WINDEVViewOrgaElement
+     identifier : 0x4ec2920e0010c805
+     internal_properties : CAAAAAgAAAAUcny4B3w0N4Oa1fpHan0FwEPf90JKD4e2tUWGPsBcVKBu2KB7hSco8FdBv0e5QbcBAQ==
+     physical_name : .\IW_WINDEVViewOrgaElement.wdw
+     type : 8
+   -
+     name : QRY_Flowchart
+     identifier : 0x4ec27d84000c8c4c
+     internal_properties : CAAAAAgAAAB60KLmxYKqtb2I/2AtxZunqg9pSXDbp4BOi/oEcQcN89nFgQcNK8FC3kW/Ofn3g3Vf5w==
+     physical_name : .\QRY_Flowchart.WDR
+     type : 5
+  other_elements : []
+  analysis : .\WD Flowchart.ana\WD OrganizationChart.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAADyta1ztdEgrYxL2OIfroDzF7WpTxHA43nOPaiO8dWw0Vx+ktT0kYY/W+5/dMYhNYy+qZVHZb8274tsI4CTf3ye4wZX+srPcRKhBS20
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+      GLOBAL
+      	
+      	// Directory for storing the organization charts
+      	OrgDirectory	is string = fDataDirUser()
+      	
+      	// List of organization charts
+      	FlowCharts	is array of strings
+      	
+      // Compatible mode
+      HCheckStructure(Person, hCompatible)
+      HSetREP(False)
+      
+      
+      LOCAL
+      	
+      // Example organization chart
+      IF fDirectoryExist(fDataDir + ["\"] + "Example") THEN
+      	Add(FlowCharts, fDataDir + ["\"] + "Example")
+      END
+      
+      // Finds the created organization charts
+      sListSubDir	is string = fListDirectory(OrgDirectory + ["\"], frNotRecursive)
+      sSubDir		is string
+      dsFlow			is data source
+      
+      FOR EACH string sSubDir of sListSubDir SEPARATED BY CR
+      	
+      	// Checks the integrity of the data found in the organization chart
+      	IF NOT HDeclareExternal(sSubDir + ["\"] + Person..PhysicalName + Person..Extension, dsFlow) THEN CONTINUE
+      	HCancelDeclaration(dsFlow)
+      	
+      	// Stores the sub-directory
+      	Add(FlowCharts, sSubDir)
+      END
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Windows 32-bit executable
+     identifier : 0x4ec2509a00031a92
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

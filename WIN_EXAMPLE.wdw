@@ -1,0 +1,556 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_EXAMPLE
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_EXAMPLE
+ identifier : 0x2857f6670674a0c4
+ internal_properties : CAAAAAgAAACvIaMneuD4VOHS7yUJqYd7Z2peWGGccgBWJjPqr0UMKB5Zk/VX/eNqotFABEogkUimBwSdBOlojwUpNMqAqLp2qytXMt6CnAkdvICzg0rbkB2EH8lM7Pfj+3Kh6sO8iJolR3xJhk1OtpWqxaxxvgXle86bckNPrtSoZ1FVgbfhPEGrWfBS49lr4S0URfoKZPkoelHwdcwOrwizzhMjdwQg2Y2PAgszeTTQFuZpnZiQ799gq8dpWy1I9/Hifr/ckNJa8sn9TpE60vHbmDhCbGYoOcjq2bZsvPMuf2/leAyBPjCHBlUn09buAOQ8Ia/Ck3vKksrsPY/sj5uRn2U3+ZmO2J4v3WC+9NAhtA0LQlK8umT41afgfA4JTUdkk6nM/QahJSXoWM4OkCFiDSH0825tpXjjhrBP/UM3VWK+Rw38axcsWwKsBcdxf78hLwMCjWOnnykyd0u1tx6nRDSZEk+LOyD9Wfel8yzlqZOZ76xuC0LZFI7Q+My7GcXyskz1wsbufovAKIHONoZBY/Mt8LdBS8q05Yksu4MFY/Y1NVbFlqeiiVTYMHpVWFkQsAoLlLJb9rH/GJo1iqONZDE1cq1eDdD16Knh38Ls9GTEPq/kXdIxvwgjQVBasu8meA9cz9zel5YTY0jm82upcK/e2TyJO6hBpnL8UA+Q/Gym0743elBw2GiFtKkKNeRoDd2qFL43hqceRRRvoG97MgYmFqFwDp5sAQCrNr0xWQmFM/G6b4R+CJ83ACljcmgoyzCTozlbEza9etoB6InhQIb5DfiVRO60kyX5RKdImy7QNA==
+ properties :
+  width : 1010
+  height : 762
+  widthClient : 1008
+  heightClient : 730
+ controls :
+  -
+    name : RIBBON
+    identifier : 0x2857f6670677a0c4
+    internal_properties : CAAAAAgAAADXQUBYKWaxA8QguKtwHOZKHHUxmWxzSS4MyGrADpatFJACsuqjHGubQjujdoz7PCLqYY7Ss3MBT6A4wxUITAc/1+oJmDvCj0PA7T/+ml9sSy1FNo0mgWuEiL9eMDJpfWEX9j/R4ymJWafekVxD2oDDAaYMWbjKl/HpbG5dP6n/v4M9VQyevgWj1SKXuN8miZU52uwqS4q2mZyi8jg+PCTRLBuq+OwAciHwrAw2slOx9UK8EEmmaSvOo8BYafkdncraNn6W3L7F+BK7YYWQ62OLP9TDQVRTYLbPblf2cnUyc/UIX5GbD1IChF6sudG1cWoEzMe2+ESV2DnNwXhU3gk5233d5V66YLJz/0zFVtw8ce8vC3mP/eAwxb8RJkGaN+0ofm3FVSh5aQ5ZmkE6vBS5SqiFBecXu9Dh2FMlH2IBZ1unsMgH70Ev1hPyX/5ZJhTB9jQuiJ6W7E4gw+R2DLwl9V0OwTm0LghejpDfzzKQotmgFd6fRyEj8G/0wTnfh+nfoHg59OyWR1wUGEosTCw9YhUdGrwnGQr8WGYKD0aOlsArsSWz8N0hbu1VHi4QBXg43Jg4Lw3V+6WxnF1JNyzJwXkvlPoHh+XkD95AG6J3twUc9LxfDe3lRxtU3sYZti1zIb1DKZqhgoDwN1FKSRnSzqAm0vkyJkNFfbmxS3HacQVhjxtbq0hWWAGjCHZihxOYem9W/s1H3VvPIamUi65RH0DxH7bsRunfp5Fk2/nipG2uxaLyueymq6ZvVJLK/QUOwgHx/v9YSFoz+A1pBHPsAqpFMPI6VgCjFYRjw/o7Y+SVNWCIvdxqj8FkaB+APzmXjI4snkj7mAAinU8D2FBn8cCMQvrBLO6uPwdU5CbHJZ5q51+BSlabVb6hacd1PaEbMmcmmrpJ3D6+Oh/6iGEpoPyaXM1w3VWG3bK4iOfyl+ubGZOTIFxlQjAATGAykc81l7IKqXMfPMcfMaJYywxANAvHFbnHPA18RtO56uYKJ5Lx2d+UBF4pIyEzaHM3xeGuW2se16smxc1QcZt+3Jp38C2Bu8s1HR5elCCYAE5oAGdSy4mbE28I6+cL7WARp3PiEk8PnJilxG+2dIDwUMlLz8WZvbz5gmpW7FwzkJBmvsJG
+    properties :
+     width : 1008
+     height : 118
+    tabs :
+     -
+       internal_properties : CAAAAAgAAADb25BvfpxkV39Au6mEOct/DphTWLimbW9rocHeAeMPtGcfAbsrCXrBxPp/nysBXPoRYyJJgLSBaLQDXRG9D9uC6HEAsd6bmjkbv/d3fsj9VKqstoYAxUh+YpQ4EVKNO4Q43241/m2yBzSepgAuMKF0BzsT/iIXKcfoe3DnBRZs
+       ribbon_groups :
+        -
+          name : RIBGRP_FILE
+          identifier : 0x2857f6670679a0c4
+          internal_properties : CAAAAAgAAABk/ZqAMJNggfZLAU/9Gvtlxc1p8sylKljdsJzlh6uzn0xauoNtqUwniWU9uM12qgLMGE1kMi6SBCAhd0vPPtwT8ms+KZOU3vL8AfBitb5Azg4Bji+lroAsc71ZsBCyd4Gr82sakLFu+gb4JDecMiRhaunvaQF0IFypre4K3jsH/kH+S+MosCCRmTlN7bMGlmf015sJDOmamoydiXLRZRkeCiyRnKhRGHZToVEHBXAox3dpl32hOmv3dACJAaVUawoG0catpA1mbZAyQVt42nqrPrsbUsb2Nqdb4enieYkWdRuThuZb9RbpYzBa+TEj9rBXhVqyT0nB6OIRazBAj7pQBGaP7Tlj40SGa8O8EAQF6frUFOLZYfxvnbJlIpeHwWulxAjRo8p1UqTQWgLQHFBEr55Bl61MNOi5eHJvbeeI4mwhcjDEYo/rIEb2WtjEr/jokiY/o5DwfIglMsS7UOuORdLBYuaTaqLdBHOoq6IT2h9iXDe1794GAI4Zu/xrD9fWFQWFLjv50fM/JX7XsA==
+          properties :
+           y : 3
+           width : 144
+           height : 88
+          controls :
+           -
+             name : BTN_ITM_NEW
+             identifier : 0x2857f667067aa0c4
+             internal_properties : CAAAAAgAAAAiAQswebn3eiCG5jD4mKCGHLnLLaMhQDl0RldvGS5bxe8qvY/JH96VqM8VizGO7VsVaAdxmGUOZuB0PVDLW0/4rthd/OvLKhnJ0XH963XRApSDaL5G+2ktkUjgojYGAyfqoUzpGTOtiM8RDSkLRJx3RCxyw2v3Wd2O6Sgj6ePHjtGvi4igqe4IWe8wahsewWj+CWoB7d42t4sxpnqi5khPjeu7Om1PV463PZKB9i54EYwaYpUdMc4Zsub8pLq5w5A81frkDfAs2wkhLXpJjk2WSvwP6Grl9o4Qdq9kfKBKw514+4b3cRSA+HGiFMFHhASi0PB4OebXjmG3V5oqyRAhBLcJ/Yl1qtdaltgDbezA0pPeV8HRjUpnN9UqAgxmCT6/gcRP65IUQEHtaf1auCpRE9NUcCZHLbtQ3PeBTGVxAIAdDfmavVexTxQGAMO7rraSbaAuR9Ztm+mCb2nurmeDQmdzfEE/+7GlUBHgLhK7k2FeCurbR8KLWNhDz3Ox7ftgWBGMt084VBhPwHcXaizCrfAFcHKzERXEGLVA5HofO4+OS0iAeP/tB+49g2QZznFdb+0vmo84wb2efZfFzyPzZYIYp63KzYRgB9/ZjwA51OvmQaWTUewYqv4a8sM2uR6mbx9JXsiBGAhx2KSNBR5jE9NblCSomqEwn7tVTZamSket0v0nR2qx39mkqx5DTv6S5RvZQU6SuA6BTBmS0qGNL79wJdHV8LLpY3Wcr045FnYzwvPF4uHQ9gGqgDXgrd+0VjbhbNp0+Je9zk0yMCX1wAADfNRntnXlbv4SHhtiw42rVPmUwbzvlI6lBmxbmoAXYiUAk38+0lgsTFjHB5GQ04Oh2VwT4quMvyHuOEPWnMdpKvexUdyhMzHJ1eCWFSY=
+             properties :
+              x : 6
+              y : 1
+              width : 66
+              height : 70
+             type : 4
+             code_elements :
+              type_code : 4
+              p_codes :
+               -
+                 internal_properties : CAAAAAgAAACS+V3iQz9m9RJ5VcrbmYsaEj81ezxab10/sAxdQ74y8+vRBe49sojx32SZItB5fSV6Y8u4h1VuYz+aeGwgIfcvx4FBm/XRKao8onxR4G/3jqJ/tGXC77i8YuNT6m3Q8IVGFhwYpRbkpOzCmdKBJg==
+                 code : |1-
+                  
+                  sNameFlowChart is string
+                  sFlowchart	 is string
+                  nFlowchart	 is int
+                  
+                  // Asks for the name of the organization chart
+                  //1: &Create
+                  //2: C&ancel
+                  IF Input(<§?1EC27638002A0B1B§>, sNameFlowChart) = 1 THEN
+                  	
+                  	// Defines the storage directory
+                  	sFlowchart = OrgDirectory + ["\"] + sNameFlowChart
+                  	
+                  	// Creates the storage directory
+                  	fMakeDir(sFlowchart)
+                  	
+                  	// Opens the organization chart
+                  	IF OpenOrganizationChart(sFlowchart) THEN
+                  		
+                  		// Stores the organization chart
+                  		nFlowchart = Add(FlowCharts, sFlowchart)
+                  		
+                  		// Adds the option to open it
+                  		MenuAddOption(MENU_OPEN, "OPT_ORG" + nFlowchart, sNameFlowChart, OpenOrganizationChart, sFlowchart)
+                  		ExecuteCode("OPT_ORG" + nFlowchart + "..Image = ""org_icon.png""")
+                  	END
+                  END
+                 type : 18
+               -
+                 type : 161
+                 enabled : false
+           -
+             name : BTN_ITM_OPEN
+             identifier : 0x2857f667067ba0c4
+             internal_properties : CAAAAAgAAAC40xt+76EY9rbA8FFOYGNcHYL7BVLf0xp9/JCTYhrwPeghwKy9MzedZGjCzjKbBFnwKSZWfjD+X/QP8YsQnAPiErdrw3Ep+9cWqdTdK1jAOkuneKC8a8qm5GvW32oD5pbjJNiFuxC/NpX/tFUXQPdV7k1KK/xQMJxLJUgX7ApWjHpRR51bdLsqF1UPkEWv940XS8Zp+KF6ojtFlMvi1UDfVTrgtRnwBvoaNySSzlaSgV8FOuL+zpL4Tw1+IAKx4/G8SCh/cKJ47MMLgN004eewmzLxWk9/TlDykEhjqEXL6VM57q/cQcz0yfoPjumSvq/MwdNQEflzVV+ulasyPO+MjYnUtDPFvHLUpKNlStwjX7emDsK6FM4wFHlDqfX0J5BlpVyBwojAfW1SlBnLy3HU07LjeUmcTi67iKC/0MbMCaBOiVedbOLfl6dlvJ0eCM9PmwQXCz6THjDfpWzV+nEwDDEUTC3Kt5CQogL/CbUS6KyYj66hRdSklMWbCQpz7Yqzq5rbY40IJUWdPnUP7gDFVjJvS7xsQmmk9t36gbJ7td1OZv97pBHoP8jQDqFaZvA58dYtGuJ0W9FQLe4p+njKFNJdMfjOmieERmQ5vLpa/9iWV/edNWV3+My5NdEdxS10nAjABCN2CS/3yqR61VNmq7XkZeABgXj7Df83R9wZcfeAo7LxDqYu1tKrQgIbrqv6DifoPeFElyGuenKje65zno7567a2+BNT7wdKa+/QWaVDkQJAKdkSCsY0mWshNAcEeRIkCwldp6TrqchCF9rja6wM8CwNEYUtnuWIVmwZKnbmOWKM7qJtLZh0o1Yw31G6tpVIZHZ4APFhIhDnYhMRYt9EB1jZOx7lN0q2td5hznInFMpTjS+2rggGLt8zmU2c
+             properties :
+              x : 73
+              y : 1
+              width : 66
+              height : 70
+             type : 4
+             code_elements :
+              type_code : 4
+              p_codes :
+               -
+                 code : |1-
+                  
+                  OpenPopupMenu(MENU_OPEN, MySelf..X, MySelf..Y + MySelf..Height)
+                 type : 18
+               -
+                 type : 161
+                 enabled : false
+          type : 88
+          code_elements :
+           type_code : 123
+           p_codes : []
+        -
+          name : RIBGRP_TOOLS
+          identifier : 0x2857f667067ca0c4
+          internal_properties : CAAAAAgAAAAJkmCQMX+r2nTY5iLXGAe3p8jR+2v627wOwgaL10IuUEN1nO1AmjAnAQYp2MimVqlL80M2I00RJD9/l1UVC8Dtnt3vYeqXlv1X9gA6vo2DP8TKCifcpPs4THGbkpPNDFlKUtqNlhk5s9prOvmnR/IjZbFLqoDTQiXt7C3ArwWXM++68jsv2J7yaKccimaR/0Qro9qcfoJB0OT1z0XBttGUMh10BtC+k4muwWPSD/CmfruG0dDvL5+w7gZfS6w617fGxFc8RgteR4xTpkVRykMTB2LGq5vlgoQ0Sts70b/Nw0rrwlblQVUBLnsOrMYS1KMtslOl4MvKRItKhReS0syrZV6aimEn6VyiQ0XSohrOUcdGYwoeCwlNOVpoS16Q2eUdyEYm7yJMXGQ2Nd6N1PU4Uk60QlUi2dKijfK4RE+qITwSyFSsrL4HtWtq36oIcrxbNo7ly64zlsl22rPjLCw8EvgTmE5PL3jAd8ENOcpmPQWxV5S840F+kW9/fvSdCu11vflh1xo+ZFvaNaPMjMxRd2lAmq4=
+          properties :
+           x : 144
+           y : 3
+           width : 206
+           height : 88
+          controls :
+           -
+             name : BTN_ITM_NEW_ORGELEMENT
+             identifier : 0x2857f667067da0c4
+             internal_properties : CAAAAAgAAAAMXF7CefPSjrAlZsfRAUfjnJe06fu0RCkOCXMZ7fp/QG+TrCTzqOsW0sjjcXwtOCCXkk2KHcglMf2i224abtF3euvY10DlVOZJnt7CptHUPNA7RFwdUPV9nsSAnozCd4AIO5aNyPRRM8pP2+vIif4VplSR4cisw1kw4rZKsNGar9Ix1rJUzfhSfrvlh4TqCTyCxLjasOFcSPgeks6T7fiFsXGfH/W+kz9dYaAPjOqF0WQHBHXUWCBqCw2Dpntdg19KQuabPFSkSbS/ad4skt1wS+BUOSAaFde94BDWeYYhgQiXOy8Ud1IVW5FVeAj/zNsPzA5A4pF9jzoOOk6ORVLv/HHFUmioMnaOo6qivmRZUE8igbhIsOR2k0Ohhbb+7a9AF0oo4KKiTcOCHkzET4Q45cqhd3a2ntNIq/Tv7lddhnwCPd3AOhjBokhejGdswa0XhaYWHEQA0WCDJfeaF3ZzhCcgRkWcVG7IvJ7DbnnAVzuaIWEOHZzjwR72HOlzEsyFeoguAc8TU/EdpFwRkR89zOHSwmj9YZ3jUhlqFO+VfvjYqpNeRdbR+kodHwFEcyMov7ph/gBmWTrVoT08v+pTreGMkbbjgHFcrdHNOkaYV4WrAwwqfJ9LKEnYXZ6xyxEznC4TkDnWLc7sPL/uLr5RKJbHp3tlgUoSIMHZE1u/QfLTizwzB3G3YDoD8ZAR1SLsSvkSC2usuYTfCDQ5UBGTDz1Xp3osTSi8utpFhQrP8ObDG20c8kOIhh6hvSy8iOfRbGBqiDBPKPUkIHyGaMP0KXW2usrQrI29UyRDKq3XTTzW+Ju8FZP23GGDU5CbxkJk/LAuZPtbbT7DbADqCXVDT4QzDRIUPHglKYRxXJ5el3NL2v1KfOWqjPgwYus8lL4dq60WmiJgtY4ICPsx0Mx5sj/tZGpQlw==
+             properties :
+              x : 1
+              y : 1
+              width : 66
+              height : 70
+             type : 4
+             code_elements :
+              type_code : 4
+              p_codes :
+               -
+                 code : |1-
+                  
+                  nID is int = -1
+                  
+                  // Creates a new form
+                  IF Open(WIN_FORM, nID, (gOrgElement = Null ? 0 ELSE gOrgElement..ID)) THEN
+                  	
+                  	// Displays the organization chart
+                  	HExecuteQuery(QRY_Flowchart)
+                  	OrgDisplay(ORGA_FLOWCHART)	
+                  	
+                  	// Selects the from that was just created
+                  	FOR i = 1 _TO_ ORGA_FLOWCHART..Occurrence
+                  		IF ORGA_FLOWCHART[i].ID = nID THEN
+                  			OrgSelectPlus(ORGA_FLOWCHART, i)
+                  			ExecuteProcess(ORGA_FLOWCHART, trtSelection)
+                  			BREAK	
+                  		END
+                  	END
+                  END
+                 type : 18
+               -
+                 type : 161
+                 enabled : false
+           -
+             name : BTN_ITM_EDIT_ORGELEMENT
+             identifier : 0x2857f667067ea0c4
+             internal_properties : CAAAAAgAAACNVhUKfyc8mewuK1un2VRGParAmNPAhJB2/kGxZOTAPOlqkc5UOLuKpwf63G81KS9CALLZD6d0yPE3UEsP05LoZ7T5qH9JyQw7bU7BHt1Dmk9vhpPURBIcSXveLXIw6IQaiwTDmQKTOIs0Xp1XVHe+jjtOsru/2trmZ+1RnYvmbponGCRW9wsm3ysmv+TXvj5G3mq5khbN5lolP0oioxJN1TWZIgN30yLu3yB6xEQF2h3lfZNx4HYnkhpyOwTFecYjeMqDxYLRD6KR7z74BdE5s7A0Jd/niiLtoj2bUhVJABfpv+rUOML1QPAQQQlwUa2rTJWvchiESW3IeNhr0AxJ0nMyksJSDHxI29XI2nwtqXEhLEz8rBhJcgL6e1NjJsTIBNTe8sD+loRc5zUsxNZAGVmbDCwx57LrKvx+1D21iZJXFze/Q7w4byLSnRj5as4DjNT1gToOmD61rDuwh4Au8BhdDHWd7zRNlAJp36hxL6rYEnm8oON/cuLOkqYW4+xgCDlE6XywF0oNOA4OssTbf+El+OBe2h/UsCPuIxKknOMAl6/0mnmJnx5NxTRzdomZWa992CdTAVEBcWtBWlfv2NWz28bCc9ul29OZp50hT4BT+FgMq8QZiYW4kz3SBr1GXi17Krwv68W+gst/+WMJvWDMW+2OnH4BuLWXlMQK/7vJxvJfjuRflbYTowM0ZlxzgvygH7JRabsvfCZsxayxphme3yzbBrxzkGSFDD0meq1FSfa/tEUxLBW0tHA8dFTbmTwFEhGR9Fw/qHX/kWYWRv1zPjgF206QvFTuhLbPHa0Cs0HoEBXphRk9eSjLO0R+ne6r+6KxYXYxZmQPapmpB96MESh/AoVxBt2d3N6q7q5zOS0CQ6SREQyok6/6CKdh921lqYbvB09P0TI6fxZbGHspRrk3qoBbedMoAqsv1kr4rNlyaQ==
+             properties :
+              x : 68
+              y : 1
+              width : 66
+              height : 70
+             type : 4
+             code_elements :
+              type_code : 4
+              p_codes :
+               -
+                 code : |1-
+                  
+                  nID is int = gOrgElement..ID
+                  
+                  // Modifies the form
+                  IF Open(WIN_FORM, nID) THEN
+                  	
+                  	// Displays the organization chart
+                  	HExecuteQuery(QRY_Flowchart)
+                  	OrgDisplay(ORGA_FLOWCHART)	
+                  	
+                  	// Selects the from that was just created
+                  	FOR i = 1 _TO_ ORGA_FLOWCHART..Occurrence
+                  		IF ORGA_FLOWCHART[i].ID = nID THEN
+                  			OrgSelectPlus(ORGA_FLOWCHART, i)
+                  			ExecuteProcess(ORGA_FLOWCHART, trtSelection)
+                  			BREAK	
+                  		END
+                  	END
+                  END
+                 type : 18
+               -
+                 type : 161
+                 enabled : false
+           -
+             name : BTN_ITM_DEL_ORGELEMENT
+             identifier : 0x2857f667067fa0c4
+             internal_properties : CAAAAAgAAABxKhkWE629mfLcX0f7C6w/5CeO6BHZIPyUlF2XZhTCKsWe6GysbA79Foa/e7iQCjydY/euKuqrX6hehUIUisO9HvJ8Ahag8t1E/5lMX/XijlsYhol4/CsR/UxOomhJFUsbkOM6RROSEYmdqZrUQZih34ynLkiZLX3F4TySDDYAOFz5bOrXhoR3i90LlqvXzROUoEm/EMPy9Tbxuyqib9o5QXn5OutDv+rqyySabMB9NrEBdYspxGrPvgYuMxwBuTrPbLpj3XYV9+5NQ05AYeE178T8bYfLrtohZhHTwpHJlENtX9oU/Na9zGwssTGkSRGvAM2HujyAsXnkROhjHKSdth+ickL+6Iysj0GIguitpU2V3JSE0Lw5xiaWE4OXvviMgEQWKrzKTqigU4XkWDakrZVDBNx90zI/rohW3LE9nZ5LFze/n7A4a35mrejtYvKnKFxFYS4CAHIZUPuY08jCXHR9pjPrnfITojBnhfZHCWhuOIvCnhmlQMh0UASMWW6ujrfGX/p+5QCzfjwcuFJd1V+rQv4UKG1yXpEEuWAaDul+neEa+J8vdWzLM7LJ/Bs/h11Xlk2RL4/Ht9mf8M1ZhkshbSRYIXlr6eFn7Vvnkd7h9mqigXLXZ2PGSes4bGckvHOVUBLFkaPcsPF9H6kTm7aaHdPcQqR/bqtFQipwGXkvvPw1ZPr1c6y5sYmytC4pOKpiTdgnv8nlctS6e2r7ZF/UYVIpLNJZfvLjogtV9r4mhni79uXjkYAH/QSNlbvcHgBiulZ5S5Pmo1qR7fyI8cw7PPJpWUacIN8YzZ0hj+/r3IRvWc6k1AXJbEFjSeIFTxtlM/kFLb+oG1PvjpGjnzZhGEJPEJNFUkld+spocFb7N0fsW/rXRbCcN4kSSiUb2Tl4mJXyCEJKbG9dRivuos3Far5n8UkSuLJhoSasUtYMuM2OFQ==
+             properties :
+              x : 135
+              y : 1
+              width : 66
+              height : 70
+             type : 4
+             code_elements :
+              type_code : 4
+              p_codes :
+               -
+                 internal_properties : CAAAAAgAAAAtB0sfkV88pn/8n3q8h/g5+02MPChtExMHqjuYKKXv93E0lmBbePnNGDOztFBepU6fqgoAEBS2WKrR9MlEjHrYMTXIH1kIjPxQko5YWl50fm/dPGcu95o7PFwpQFs98xjJuatlRv1rUe1wkco=
+                 code : |1-
+                  
+                  nID 			is int = gOrgElement..ID
+                  nManagerID	is int
+                  
+                  // Finds the form
+                  HReadSeekFirst(Person, PersonID, nID)
+                  IF NOT HFound(Person) THEN Error("Unable to delete")
+                  
+                  //1: &Delete
+                  //2: Do&n't delete
+                  IF Dialog(<§?1EC28C090073439A§>, gOrgElement..Title) = 1 THEN
+                  	
+                  	// No manager
+                  	IF Person.ManagerID = 0 THEN
+                  		
+                  		// Delete without check (the deletion will assign a default manager ot the subordinates (ie: none))
+                  		HDelete(Person)
+                  	ELSE
+                  		
+                  		// Move up in the hierarchy
+                  		HReadSeekFirst(Person, PersonID, Person.ManagerID)
+                  		IF HFound(Person) THEN
+                  			
+                  			// No higher manager
+                  			IF Person.ManagerID = 0 THEN
+                  				
+                  				// Delete without check (the deletion will assign a default manager ot the subordinates (ie: none))
+                  				HReadSeekFirst(Person, PersonID, nID)
+                  				HDelete(Person)
+                  			ELSE
+                  				
+                  				// Stores the identifier of the higher manager
+                  				nManagerID = Person.ManagerID			
+                  				
+                  				// Modify the manager of subordinates
+                  				FOR EACH Person WHERE ManagerID = nID
+                  					Person.ManagerID = nManagerID
+                  					HModify(Person)
+                  				END
+                  				
+                  				// Re-selects the person to delete
+                  				HReadSeekFirst(Person, PersonID, nID)
+                  				HDelete(Person)
+                  			END
+                  		END
+                  	END
+                  	
+                  	// Displays the organization chart
+                  	HExecuteQuery(QRY_Flowchart)
+                  	OrgDisplay(ORGA_FLOWCHART)	
+                  	
+                  	AnimationPrepare(MyWindow)
+                  	
+                  	// Cancels the reference
+                  	gOrgElement = Null
+                  	GR_SELECTION..State = Grayed
+                  	AnimationPlay(animFadeIn, 15)
+                  END
+                 type : 18
+               -
+                 type : 161
+                 enabled : false
+          type : 88
+          code_elements :
+           type_code : 123
+           p_codes : []
+       controls : []
+    type : 87
+    controls : []
+    code_elements :
+     type_code : 119
+     p_codes :
+      -
+        type : 292
+        enabled : false
+      -
+        type : 293
+        enabled : false
+  -
+    name : ORGA_FLOWCHART
+    identifier : 0x2857f6670680a0c4
+    internal_properties : CAAAAAgAAACkTzLmGkYQF4GraDUvSz+lzAomGkWiH3N6PFW5dnHdzYHTi/YdKuRfZVRTDjfzv0mR4kZn7AlgVTGjabpwzBnb0DcgrHbtP0gG8z++On9/1kTXw20bir4Sd7CwgMRLK3wsTCtFoYLPr/r0+gfmb8b4SHbGKqrPluLx9JYYHOsuhZzwveHOvSqQ/O9pfj9UBUhaQ4SHFJDX15rwzY8PIwfRI4zJSrZyh2gDTOA31xwKpJKsEUn9AV6RqR4dwiOhoQjJbyPCsbaf47ou1IudrQWXwU1vBzfb8a9n0y6nue5muwN20ZnIA9YH87e5ceTQvpESGIiaU4ATQ/vPAWdrczkE5QjUD54MVRPog6yFshP28s5NwcKzHrG9HQYa3ab1FRkK+mAGXGM4LUA95la72uEX/P2wi9XyjEtk30dgD0NKZGnZKEjXMRGr+QehC/Jeqpip8O0xXN6YBQ/Y1ZmVZKCaMzP9b//SjNgeTePiBjuDz8ltYcBkPBSRq+YNz53u9+yNnwxHqZ+GJ42JjbtuyhQmxFh9E0Ago9R7MpWp8Y4bjWdkgAxWoOIwoKNgyCTge8JIqobjenQZWEqqQi/CxSFBhI+nls0b6Al696qIGbWFlpZgE/FwucFkAB/6bvbwdKF+R3ysNQtBFMP8bbgoT+4uas6znuIa1MJcbP3SrjAqAZrCqc0wE5LLmdUNzV7CI0uhR8bveLQaQekPpE4Hf5guJcbUkZ3D7urX9ag94WKvJZHTpu12KZAoPmprnMH9cygtcxrRsxmQmNgJ7LuGHbFZaDcfsze5o0oDx8VRcapk5MDMXgwC4put3MdjQgNmFW8jCuoZg7eniIn7RZisUR84d6k8mkCxhiXhtu9gh6w19VyoY3br0ZgAWlyu78cUBxXlRQCDsOUb+GB4wQtiuxHvZCG82JMYsi++EEVHP1V0+/jPp1DGLJo/6WSbChqryjyXxLNA41moUzCTJSLkw4yIn+DJDg+X9Lkwmsv++ldwnX+AT1Z0SOrJ5X59J6mwgymTLqWOXALQRdz3uHtY1O2cHBcRrmt46HYfx+YpaaMAT9Ckdvp/NEmO0MJnP57Db80Eww4v/nmRPQlfIZwlun+vldDowQ9ce5KiNVjJbKeS1QTW1fgq6INo3HK3O3BLHbGg
+    properties :
+     y : 118
+     width : 1008
+     height : 612
+    type : 86
+    code_elements :
+     type_code : 118
+     p_codes :
+      -
+        code : |1-
+         
+         bAlreadySelected is boolean = (gOrgElement <> Null)
+         
+         // Keeps a reference
+         gOrgElement <- ORGA_FLOWCHART[ORGA_FLOWCHART]
+         
+         IF NOT bAlreadySelected THEN ControlEnabled(GR_SELECTION, animFadeIn, 15)
+        type : 160
+      -
+        code : |1-
+         
+         // If we click outside the elements of the organization chart
+         IF OrgInfoXY(ORGA_FLOWCHART, MouseXPos, MouseYPos) = -1 THEN
+         	
+         	bAlreadySelected is boolean = (gOrgElement <> Null)	
+         	
+         	IF bAlreadySelected THEN
+         		
+         		AnimationPrepare(MyWindow)
+         		
+         		// De-selects
+         		OrgSelectMinus(ORGA_FLOWCHART, ORGA_FLOWCHART)
+         		
+         		// Cancels the reference
+         		gOrgElement = Null
+         		GR_SELECTION..State = Grayed
+         		AnimationPlay(animFadeIn, 15)
+         	END
+         END
+        type : 66050
+      -
+        code : |1-
+         
+         // If we click outside the elements of the organization chart
+         IF OrgInfoXY(ORGA_FLOWCHART, MouseXPos, MouseYPos) = -1 THEN
+         	RETURN
+         END
+         
+         ExecuteProcess(RIBBON.RIBGRP_TOOLS.BTN_ITM_EDIT_ORGELEMENT, trtClick)
+        type : 66051
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ popup_menus :
+  -
+    name : MENU_OPEN
+    identifier : 0x2857f6670681a0c4
+    internal_properties : CAAAAAgAAADpbhCq7HHgMJbSM/LhPyZW3y/I5WCZcD0FN5SrMdmLYiOLTlJe3BcvNiQxBUr1Ts30Q89Xv5mir9+rqcROwhxibVXtfEd0ssv2Zwg9MspOjJ1PzSJt9iGKQobjgLsHIG4r92KFK/mod4S8oMe7SDc/K8ghiMoRL+KoDmj2GHwESXSAhlGm6U4dlnvz7xm+9voz31PD7Z8YQFMtnr+TGWmAw9v3LS5hEgnq7rrinB3ro2HNPAaqPIeYvVixunQf/h0SZWVyOjaX47lmMhT3/SpPSGHW3c9ApbfetplKzuv9Hgo8iNHascDBsgu9GVTpzy3/lnxh2J1tXHtQT8RoTjg/CxS06JnuPdrY0O28Awl2dL9Q5W2vENqd0uafuy5/kNAVtkuqq+VOHOtD
+    options :
+     -
+       name : OPT_PLACEHOLDER
+       identifier : 0x2857f6670682a0c4
+       internal_properties : CAAAAAgAAAAyyKgZqDELkVtgMz7NQrHq8hgJe+1MTt/us3jwgld0Db/r5pdUg4WeQKf232aaAPXfQfJZRIgGk1p6XzzgPTN5ZbBXG0KVLuVRXNpQaiWjxrAZE3SuM3ZXCQDjMJxICieOIW2mUjCVKqhclj3hmN7NqABz/sOta4txCvi7ry23vYuHLQTHvysE3ln2Qcthg+2dG0KFlgNDEO1HsXEECohu17fNuojUytUp/mOgPRbP+bZ96JjrZ4ZMWcN3lPNDnBJ1wrnxlWZ+y7T48o22gokwbquOSHchp7lRJythq0ToSHRbZYtjBR2VPqBs8gwCeJV6YXys/6mrav8++e8A8hSWlYPfX/UlH4fFB+rDhm2JnCB8VzLEuSBwsKyb6wQ5CRAxmQ7GjpUd8KfiOTLeYBmrP3UsiCPSFW/pKWPlVT9C5T+9qsEOUGPv30MX4mzXyjIvB8yTymyKlLHaTZjDys0ZkD0x
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           code : |1-
+            
+            ExecuteProcess(RIBBON.RIBGRP_FILE.BTN_ITM_NEW, trtClick)
+           type : 32
+    controls : []
+    code_elements :
+     type_code : 26
+     p_codes : []
+ languages :
+  - en-GB
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAADFceYu4R5uVUwyoO+5+80YV7xC2o8fJBQ6qCmDH6NVai83m2W8NF4iEQeKkew0Ru2XhKXhTbvcPL41Hqykw4pHeCpnHC32zbbe7hi03A==
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      
+      GLOBAL
+      	
+      	// Selected element
+      	gOrgElement	is an OrgElement dynamic
+      	
+      	
+      LOCAL
+      	
+      	sFlowchart is string
+      	nFlowchart is int
+      	
+      IF FlowCharts..Occurrence > 0 THEN
+      	
+      	// Creates the menu options used to open the organization charts
+      	FOR EACH sFlowchart, nFlowchart of FlowCharts
+      		MenuAddOption(MENU_OPEN, "OPT_ORG" + nFlowchart, ExtractString(sFlowchart, lastRank, fSep), OpenOrganizationChart, sFlowchart)
+      		ExecuteCode("OPT_ORG" + nFlowchart + "..Image = ""org_icon.png""")
+      	END
+      	
+      	MENU_OPEN.OPT_PLACEHOLDER..Visible = False
+      ELSE
+      	MENU_OPEN.OPT_PLACEHOLDER..Visible = True
+      END
+      
+      // Opens the example
+      IF FlowCharts[1] = fExeDir + ["\"] + "Example" THEN
+      	OpenOrganizationChart(FlowCharts[1])
+      END
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 11
+   -
+     code : |1+
+      
+      
+     type : 12
+   -
+     code : |1+
+      
+      
+     type : 17
+   -
+     code : |1+
+      
+      
+     type : 13
+  procedures :
+   -
+     name : OpenOrganizationChart
+     internal_properties : CAAAAAgAAAAM34km+p2LM0Jafr/gijXeTImHicFj7lFu9FrqtgEK91qgYssHbROYrXPWPQuCRnMMZ684xbe6oq1nscH9xKapdVr2FWTPC1MVk/+hO52w5+vn7IjZ6fSvrcAYUpDA0PhZ/QJLYO5TzRKT4VFwJvmoQ216mG+7u8SECyh/lCtC1H7uDeo=
+     procedure_id : 1754141502131904708
+     type_code : 14
+     code : |1-
+      // Summary: Opens an organization chart
+      // Syntax:
+      //[ <Result> = ] OpenOrganizationChart (<sOrganizationChart> is ANSI string)
+      //
+      // Parameters:
+      //	sOrganizationChart (ANSI string): Path of the organization chart
+      // Return value:
+      // 	boolean: True if the organization chart was opened, False otherwise
+      //
+      // Automatic process of errors: run the CASE ERROR block
+      //
+      PROCEDURE OpenOrganizationChart(LOCAL sFlowchart is string)
+      
+      // Clears the organization chart
+      OrgDeleteAll(ORGA_FLOWCHART)
+      
+      // Data location
+      HChangeDir(Person, sFlowchart)
+      HCreationIfNotFound(Person)
+      
+      // Displays the organization chart
+      HExecuteQuery(QRY_Flowchart)
+      
+      AnimationPrepare(MyWindow)
+      
+      MyWindow..Title = "WD Flowchart [" + ExtractString(sFlowchart, lastRank, fSep) + "]"
+      OrgDisplay(ORGA_FLOWCHART)	
+      
+      // Enables the creation
+      BTN_ITM_NEW_ORGELEMENT..State = Active
+      
+      gOrgElement = Null
+      GR_SELECTION..State = Grayed
+      
+      AnimationPlay(animFadeIn, 15)
+      
+      RESULT True
+      
+      CASE Error:
+      RESULT False
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1ec2547c00114589
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+ dialogs :
+  -
+    identifier : 0x1ec27638002a0b1b
+    internal_properties : CAAAAAgAAABuxocJ/q5OeX7kDRExFHEUk5RKdE+3CzbAfNkNn9T4pgbBSSlXm+ns3cI6Qfp12HRcgBLS1/ihsnJCpaMkzkbMIYj3RVACZQ==
+    label :
+     fr-FR : Entrez le nom du nouvel organigramme
+     en-GB : Enter the name of the new organization chart
+    image_type : 0
+    image :
+     fr-FR : "D:\\Mes Projets\\Exemples VI\\Tortoise\\17.0\\WD Organigramme\\orga_new.png"
+    cancel_button : 1
+    buttons :
+     -
+       label :
+        fr-FR : "&Créer"
+        en-GB : "&Create"
+       image : {}
+       value : 1
+     -
+       label :
+        fr-FR : "&Annuler"
+        en-GB : C&ancel
+       image : {}
+       value : 2
+  -
+    identifier : 0x1ec28c090073439a
+    internal_properties : CAAAAAgAAACVTgmFGSekMqDnuJcgZMuxhqd/Bg85gjdixBnRjWTYsjIxlbj6DzDeYhzSBOz+a2sNHj7PNRnC14ZpppotikukOjnO38CfrVn9oEhR
+    label :
+     fr-FR : "Êtes-vous sûr de vouloir supprimer %1 ?\r\n\r\nSi cette personne est responsable d'autres personnes, celles-ci se verront attribuer le responsable supérieur ou aucun responsable."
+     en-GB : "Do you want to delete %1?\r\n\r\nIf this person manages other persons, the higher manager or no manager will be assigned to these persons."
+    image : {}
+    cancel_button : 1
+    buttons :
+     -
+       label :
+        fr-FR : "&Supprimer"
+        en-GB : "&Delete"
+       image : {}
+       value : 1
+     -
+       label :
+        fr-FR : "&Ne pas supprimer"
+        en-GB : Do&n't delete
+       image : {}
+       value : 2
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_EXAMPLE.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
